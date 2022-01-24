@@ -7,3 +7,4 @@ for sklep, rzeczy in shopping_dict.items():
   x = len(shopping_dict["piekarnia"]) + len(shopping_dict["warzywniak"])
 print("w sumie kupuje " + str(x) + " produktow" )
 print("hello")
+print("pozdrawiam")
